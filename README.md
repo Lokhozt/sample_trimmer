@@ -30,7 +30,7 @@ When the script fail to determine a proper window the concerned files are specif
 The script uses [librosa](https://librosa.github.io/librosa/) for resampling, [wavio](https://github.com/WarrenWeckesser/wavio) to write result file and [numpy](https://github.com/numpy/numpy) for the processing.
 
 ```python
-pip install librosa wavio numpy #Librosa installs numpy
+pip install librosa wavio numpy
 ```
 
 ### Uses
