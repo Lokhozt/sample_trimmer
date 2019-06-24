@@ -1,4 +1,4 @@
-# Sample Split
+# Sample Trimmer
 
 ## Introduction
 
