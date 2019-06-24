@@ -10,9 +10,11 @@ It was designed to process batch of recorded keywords.
 Its uses energy to determine the speech segment and return a window centered on that segment.
 
 First the audio files are loaded and resampled (facultative):
+
 ![alt text](.imgs/input_audio.png)
 
 Then energy and mean energy is processed:
+
 ![alt text](.imgs/energy-th.png)
 
 Finally, the resulting window is set around the speech segment:
