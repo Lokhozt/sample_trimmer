@@ -1,0 +1,16 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python : Fichier actuel",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args" : ["/home/rbaraglia/data/wake-me-up-records", "/home/rbaraglia/data/keyword_test_crop/trimmed", "1", "--resample=16000"]
+        }
+    ]
+}
